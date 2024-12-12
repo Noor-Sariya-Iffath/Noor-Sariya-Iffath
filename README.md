@@ -13,8 +13,8 @@ I am a dedicated and passionate **Computer Science Engineering** student special
 
 ## 📚 Skills & Technologies:
 - **Programming Languages**: C, Python, Java, JavaScript, HTML/CSS
-- **Web Development**: React, MongoDB, REST APIs
-- **Machine Learning & AI**: TensorFlow, Keras, Scikit-learn
+- **Web Development**: React, MongoDB
+- **Machine Learning & AI**: TensorFlow, Scikit-learn
 - **Tools**: Git, GitHub, VSCode
 - **Operating Systems**: Linux, Windows, macOS
 
