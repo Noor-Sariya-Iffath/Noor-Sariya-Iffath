@@ -14,5 +14,7 @@ I'm a **Computer Science Engineering** student specializing in **AI** and **ML**
 - **Tech**: React, MongoDB, TensorFlow, Scikit-learn, Git, GitHub  
 
 ## 🤝 Let's Connect:
+Feel free to connect with me to collaborate on innovative and impactful projects. I'm always open to working with like-minded individuals who are passionate about creating cutting-edge solutions.
+
 - 📧 **Email**: [noorsariya2026@gmail.com](mailto:noorsariya2026@gmail.com)  
 - 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/noor-sariya-iffath-7b6576213)
