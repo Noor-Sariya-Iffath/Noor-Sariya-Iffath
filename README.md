@@ -1,11 +1,12 @@
 # Hello, I'm Noor Sariya! 👋
 
-**Computer Science Engineering (Artificial Intelligence and Machine Learning)**
+**Computer Science Engineering (AI & Machine Learning) Student | Aspiring Software Engineer**
 
-I'm a passionate Computer Science Engineering (Artificial Intelligence and Machine Learning) student, always eager to learn new technologies and contribute to meaningful projects. I enjoy coding, problem-solving, and exploring innovations in software development, machine learning, and embedded systems.
+I am a dedicated and passionate **Computer Science Engineering** student specializing in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. With a strong foundation in software development, data structures, algorithms, and hardware programming, I am committed to exploring innovative technologies and solving complex challenges in the tech industry.
 
 ## 🚀 About Me:
-- 🎓 **Currently pursuing my degree in Computer Science Engineering (Artificial Intelligence and Machine Learning)** with a focus on software development, data structures, algorithms, and hardware programming.
+- 🎓 **Currently pursuing a degree in Computer Science Engineering (Artificial Intelligence & Machine Learning)**, with a focus on advanced **software development**, **data science**, **algorithms**, and **machine learning** methodologies.
+- 💡 Passionate about applying **AI** and **ML** techniques to create intelligent systems that can solve real-world problems and make a meaningful impact across industries such as healthcare, education, and automation.
 - 💻 **Skills**: Proficient in **C**, **Python**, **Java**, and **JavaScript**, with hands-on experience in **web development** and **embedded systems**.
 - 🌱 **Currently learning**: Exploring **Machine Learning** and **AI**, building smarter systems, and contributing to open-source projects.
 - 🚀 **Future Goal**: To work on cutting-edge technologies and make a positive impact through innovation in the tech space.
