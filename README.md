@@ -23,7 +23,7 @@ I'm a passionate Computer Science Engineering (Artificial Intelligence and Machi
 
 ## 🤝 Let's Connect!
 - 📧 **Email**: noorsariya2026@gmail.com
-- 💼 **LinkedIn**: [Noor Sariya's LinkedIn](https://www.linkedin.com/in/noorsariya)
+- 💼 **LinkedIn**: (www.linkedin.com/in/noor-sariya-iffath-7b6576213)
 
 Feel free to reach out if you're interested in collaborating on projects or discussing tech. I'm always up for learning and sharing knowledge! 🚀
 
